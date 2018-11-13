@@ -108,6 +108,11 @@
             "\t-ios-text-color:": "",
             "\t-ios-selected-text-color:": "",
             "\t-ios-unread-text-color:": ""
+        },
+        {
+            "BackgroundStyle-Passcode {": "",
+            "\tbackground-color:": "",
+            "\t-ios-background-image:": ""
         }
     ]
 }
