@@ -131,6 +131,10 @@
             "\t-ios-keypad-background-color:": "",
             "\t-ios-keypad-text-normal-color:": "",
             "\t-ios-keypad-number-highlighted-image:": ""
+        },
+        {
+            "BackgroundStyle-MessageNotificationBar {": "",
+            "\tbackground-color:": ""
         }
     ]
 }
