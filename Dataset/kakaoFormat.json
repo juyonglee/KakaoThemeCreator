@@ -32,6 +32,20 @@
             "\t-ios-text-color:": "",
             "\t-ios-tab-text-color:": "",
             "\t-ios-tab-highlighted-text-color:": ""
+        },
+        {
+            "MainViewStyle-Primary {": "",
+            "\tbackground-color:": "",
+            "\t-ios-text-color:": "",
+            "\t-ios-highlighted-text-color:": "",
+            "\t-ios-description-text-color:": "",
+            "\t-ios-description-highlighted-text-color:": "",
+            "\t-ios-paragraph-text-color:": "",
+            "\t-ios-paragraph-highlighted-text-color:": "",
+            "\t-ios-normal-background-color:": "",
+            "\t-ios-normal-background-alpha:": "",
+            "\t-ios-selected-background-color:": "",
+            "\t-ios-selected-background-alpha:": ""
         }
     ]
 }
