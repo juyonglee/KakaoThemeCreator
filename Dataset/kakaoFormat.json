@@ -139,6 +139,10 @@
         {
             "LabelStyle-MessageNotificationBarName {": "",
             "\t-ios-text-color:": ""
+        },
+        {
+            "LabelStyle-MessageNotificationBarMessage {": "",
+            "\t-ios-text-color:": ""
         }
     ]
 }
