@@ -46,6 +46,10 @@
             "\t-ios-normal-background-alpha:": "",
             "\t-ios-selected-background-color:": "",
             "\t-ios-selected-background-alpha:": ""
+        },
+        {
+            "MainViewStyle-Secondary {": "",
+            "\tbackground-color:": ""
         }
     ]
 }
