@@ -143,6 +143,10 @@
         {
             "LabelStyle-MessageNotificationBarMessage {": "",
             "\t-ios-text-color:": ""
+        },
+        {
+            "BackgroundStyle-DirectShareBar {": "",
+            "\tbackground-color:": ""
         }
     ]
 }
