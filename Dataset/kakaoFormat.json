@@ -117,6 +117,20 @@
         {
             "LabelStyle-PasscodeTitle {": "",
             "\t-ios-text-color:": ""
+        },
+        {
+            "PasscodeStyle {": "",
+            "\t-ios-bullet-first-image:": "",
+            "\t-ios-bullet-second-image:": "",
+            "\t-ios-bullet-third-image:": "",
+            "\t-ios-bullet-fourth-image:": "",
+            "\t-ios-bullet-selected-first-image:": "",
+            "\t-ios-bullet-selected-second-image:": "",
+            "\t-ios-bullet-selected-third-image:": "",
+            "\t-ios-bullet-selected-fourth-image:": "",
+            "\t-ios-keypad-background-color:": "",
+            "\t-ios-keypad-text-normal-color:": "",
+            "\t-ios-keypad-number-highlighted-image:": ""
         }
     ]
 }
