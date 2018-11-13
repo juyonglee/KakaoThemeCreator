@@ -84,6 +84,18 @@
             "\t-ios-send-highlighted-foreground-color:": "",
             "\t-ios-button-normal-foreground-color:": "",
             "\t-ios-button-highlighted-foreground-color:": ""
+        },
+        {
+            "MessageCellStyle-Send {": "",
+            "\t-ios-background-image:": "",
+            "\t-ios-selected-background-image:": "",
+            "\t-ios-group-background-image:": "",
+            "\t-ios-group-selected-background-image:": "",
+            "\t-ios-title-edgeinsets:": "",
+            "\t-ios-group-title-edgeinsets:": "",
+            "\t-ios-text-color:": "",
+            "\t-ios-selected-text-color:": "",
+            "\t-ios-unread-text-color:": ""
         }
     ]
 }
