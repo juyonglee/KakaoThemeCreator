@@ -26,6 +26,12 @@
             "\t-ios-game-selected-icon-image:": "",
             "\t-ios-more-normal-icon-image:": "",
             "\t-ios-more-selected-icon-image:": ""
+        },
+        {
+            "HeaderStyle-Main {": "",
+            "\t-ios-text-color:": "",
+            "\t-ios-tab-text-color:": "",
+            "\t-ios-tab-highlighted-text-color:": ""
         }
     ]
 }
