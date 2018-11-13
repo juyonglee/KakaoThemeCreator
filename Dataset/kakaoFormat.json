@@ -74,6 +74,16 @@
             "BackgroundStyle-ChatRoom {": "",
             "\tbackground-color:": "",
             "\t-ios-background-image:": ""
+        },
+        {
+            "InputBarStyle-Chat {": "",
+            "\tbackground-color:": "",
+            "\t-ios-send-normal-background-color:": "",
+            "\t-ios-send-normal-foreground-color:": "",
+            "\t-ios-send-highlighted-background-color:": "",
+            "\t-ios-send-highlighted-foreground-color:": "",
+            "\t-ios-button-normal-foreground-color:": "",
+            "\t-ios-button-highlighted-foreground-color:": ""
         }
     ]
 }
