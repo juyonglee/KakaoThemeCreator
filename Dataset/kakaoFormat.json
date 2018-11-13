@@ -147,6 +147,10 @@
         {
             "BackgroundStyle-DirectShareBar {": "",
             "\tbackground-color:": ""
+        },
+        {
+            "LabelStyle-DirectShareBarName {": "",
+            "\t-ios-text-color:": ""
         }
     ]
 }
