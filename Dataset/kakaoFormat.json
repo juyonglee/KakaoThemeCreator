@@ -61,6 +61,10 @@
         {
             "FeatureStyle-Primary {": "",
             "\t-ios-text-color:": ""
+        },
+        {
+            "ButtonStyle-AddFriend {": "",
+            "\t-ios-image:": ""
         }
     ]
 }
