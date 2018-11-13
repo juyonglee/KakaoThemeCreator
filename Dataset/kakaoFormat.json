@@ -113,6 +113,10 @@
             "BackgroundStyle-Passcode {": "",
             "\tbackground-color:": "",
             "\t-ios-background-image:": ""
+        },
+        {
+            "LabelStyle-PasscodeTitle {": "",
+            "\t-ios-text-color:": ""
         }
     ]
 }
