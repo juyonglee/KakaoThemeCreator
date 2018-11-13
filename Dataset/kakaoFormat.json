@@ -135,6 +135,10 @@
         {
             "BackgroundStyle-MessageNotificationBar {": "",
             "\tbackground-color:": ""
+        },
+        {
+            "LabelStyle-MessageNotificationBarName {": "",
+            "\t-ios-text-color:": ""
         }
     ]
 }
