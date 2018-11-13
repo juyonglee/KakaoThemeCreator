@@ -151,6 +151,10 @@
         {
             "LabelStyle-DirectShareBarName {": "",
             "\t-ios-text-color:": ""
+        },
+        {
+            "LabelStyle-DirectShareBarMessage {": "",
+            "\t-ios-text-color:": ""
         }
     ]
 }
