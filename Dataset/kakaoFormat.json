@@ -69,6 +69,11 @@
         {
             "DefaultProfileStyle {": "",
             "\t-ios-profile-images:": ""
+        },
+        {
+            "BackgroundStyle-ChatRoom {": "",
+            "\tbackground-color:": "",
+            "\t-ios-background-image:": ""
         }
     ]
 }
