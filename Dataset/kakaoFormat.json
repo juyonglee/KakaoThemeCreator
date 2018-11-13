@@ -7,6 +7,25 @@
             "\t-kakaotalk-theme-url:": "",
             "\t-kakaotalk-author-name:": "",
             "\t-kakaotalk-theme-id:": ""
+        },
+        {
+            "TabBarStyle-Main {": "",
+            "\tbackground-color:": "",
+            "\t-ios-background-image:": "",
+            "\t-ios-friends-normal-icon-image:": "",
+            "\t-ios-friends-selected-icon-image:": "",
+            "\t-ios-chats-normal-icon-image:": "",
+            "\t-ios-chats-selected-icon-image:": "",
+            "\t-ios-find-normal-icon-image:": "",
+            "\t-ios-find-selected-icon-image:": "",
+            "\t-ios-browse-normal-icon-image:": "",
+            "\t-ios-browse-selected-icon-image:": "",
+            "\t-ios-piccoma-normal-icon-image:": "",
+            "\t-ios-piccoma-selected-icon-image:": "",
+            "\t-ios-game-normal-icon-image:": "",
+            "\t-ios-game-selected-icon-image:": "",
+            "\t-ios-more-normal-icon-image:": "",
+            "\t-ios-more-selected-icon-image:": ""
         }
     ]
 }
