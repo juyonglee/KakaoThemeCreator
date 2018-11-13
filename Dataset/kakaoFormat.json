@@ -57,6 +57,10 @@
             "\tborder-alpha:": "",
             "\t-ios-text-color:": "",
             "\t-ios-text-alpha:": ""
+        },
+        {
+            "FeatureStyle-Primary {": "",
+            "\t-ios-text-color:": ""
         }
     ]
 }
