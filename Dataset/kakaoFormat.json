@@ -65,6 +65,10 @@
         {
             "ButtonStyle-AddFriend {": "",
             "\t-ios-image:": ""
+        },
+        {
+            "DefaultProfileStyle {": "",
+            "\t-ios-profile-images:": ""
         }
     ]
 }
