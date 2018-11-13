@@ -96,6 +96,18 @@
             "\t-ios-text-color:": "",
             "\t-ios-selected-text-color:": "",
             "\t-ios-unread-text-color:": ""
+        },
+        {
+            "MessageCellStyle-Receive {": "",
+            "\t-ios-background-image:": "",
+            "\t-ios-selected-background-image:": "",
+            "\t-ios-group-background-image:": "",
+            "\t-ios-group-selected-background-image:": "",
+            "\t-ios-title-edgeinsets:": "",
+            "\t-ios-group-title-edgeinsets:": "",
+            "\t-ios-text-color:": "",
+            "\t-ios-selected-text-color:": "",
+            "\t-ios-unread-text-color:": ""
         }
     ]
 }
